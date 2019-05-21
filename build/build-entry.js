@@ -11,7 +11,7 @@ const tips = `/* eslint-disable */
 const root = path.join(__dirname, '../');
 const join = dir => path.join(root, dir);
 
-function buildVantEntry() {
+function buildAwmEntry() {
   const uninstallComponents = [
     'Locale',
     'Lazyload',
@@ -101,6 +101,6 @@ export default {
   fs.writeFileSync(output, content);
 }
 
-buildVantEntry();
+buildAwmEntry();
 buildDemoEntry();
 buildDocsEntry();

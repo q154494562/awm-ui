@@ -4432,7 +4432,7 @@ humanize-url@^1.0.0:
 
 husky@^2.3.0:
   version "2.3.0"
-  resolved "https://repo.huaweicloud.com/repository/npm/husky/-/husky-2.3.0.tgz#8b78ed24d763042df7fd899991985d65a976dd13"
+  resolved "https://registry.npmjs.org/husky/-/husky-2.3.0.tgz#8b78ed24d763042df7fd899991985d65a976dd13"
   integrity sha512-A/ZQSEILoq+mQM3yC3RIBSaw1bYXdkKnyyKVSUiJl+iBjVZc5LQEXdGY1ZjrDxC4IzfRPiJ0IqzEQGCN5TQa/A==
   dependencies:
     cosmiconfig "^5.2.0"
